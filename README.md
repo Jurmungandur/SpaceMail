@@ -1,0 +1,2 @@
+# SpaceMail
+A game.
